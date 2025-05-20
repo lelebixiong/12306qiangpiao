@@ -15,8 +15,7 @@
 
 ### 环境要求
 
-- Python 3.x
-- 相关依赖库（请参考 `requirements.txt`）
+- Python 3.12
 
 ### 安装步骤
 
